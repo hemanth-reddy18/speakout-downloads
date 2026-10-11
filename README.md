@@ -1,8 +1,8 @@
-# Speakout v8.3.4 — Local Voice Dictation & Prompt Intelligence
+# Speakout v8.3.5 — Local Voice Dictation & Prompt Intelligence
 
-Speakout v8.3.4 is an ultra-fast, local-first voice dictation and prompt intelligence platform for Windows, macOS, and Linux.
+Speakout v8.3.5 is an ultra-fast, local-first voice dictation and prompt intelligence platform for Windows, macOS, and Linux.
 
-[![Latest Release](https://img.shields.io/badge/Release-v8.3.4_Stable-blue.svg)](https://github.com/hemanth-reddy18/speakout-downloads/releases/tag/v8.3.4)
+[![Latest Release](https://img.shields.io/badge/Release-v8.3.5_Stable-blue.svg)](https://github.com/hemanth-reddy18/speakout-downloads/releases/tag/v8.3.5)
 [![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-orange.svg)](https://github.com/hemanth-reddy18/speakout-downloads)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -11,11 +11,11 @@ Speakout v8.3.4 is an ultra-fast, local-first voice dictation and prompt intelli
 ## 📦 Direct Downloads
 
 ### 🪟 Windows (x86_64 / 64-bit)
-- **[Speakout-v8.3.4-windows-x64-setup.exe (Installer)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64-setup.exe)** (5.26 MB) — *Recommended: full standalone installer with Start Menu & Desktop shortcuts*
-- **[Speakout-v8.3.4-windows-x64.zip (Portable)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.zip)** (5.33 MB) — *Self-contained portable archive with all runtime DLLs included*
-- **[Speakout-v8.3.4-windows-x64.msi (MSI Package)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.msi)** (5.08 MB)
+- **[Speakout-v8.3.5-windows-x64-setup.exe (Installer)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64-setup.exe)** (5.86 MB) — *Recommended: full standalone installer with Start Menu & Desktop shortcuts, 50ms Lightning Mode*
+- **[Speakout-v8.3.5-windows-x64.zip (Portable)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64.zip)** (7.19 MB) — *Self-contained portable archive with all runtime DLLs included*
+- **[Speakout-v8.3.5-windows-x64.msi (MSI Package)](https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64.msi)** (5.86 MB)
 - **Windows Compatibility**: Windows 10 & Windows 11 (64-bit)
-- **Hotkey**: `Ctrl+Shift+Space` (hold to speak, release to insert text)
+- **Hotkey**: `Alt + Spacebar` (hold to speak, release to insert text)
 
 ### 🍏 macOS (Apple Silicon M1 / M2 / M3 / M4)
 - **[Speakout-v8.3.4-apple-silicon.dmg](https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-apple-silicon.dmg)** (5.03 MB)
