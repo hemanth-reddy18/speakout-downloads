@@ -4,16 +4,16 @@
   "notes": "Speakout v8.3.4 Stable — Multiplatform Local Voice Dictation & Prompt Intelligence (Windows, macOS, Linux). Features The Professional Prompt Framework, on-device Whisper voice engine, background tray/hotkey resident mode, and full offline privacy.",
   "download_url": "https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-windows-x64-setup.exe",
   "asset_name": "Speakout-v8.3.4-windows-x64-setup.exe",
-  "asset_size": 5793597,
-  "sha256": "769e537df2b682b76e1665daa4c0cb01b29137808975c346a8f27337dc7b8e2b",
+  "asset_size": 5860652,
+  "sha256": "09fbf050fb44bac88855a62fa77339268d61a6d641238adc9048f86e24222998",
   "release_url": "https://github.com/hemanth-reddy18/speakout-downloads",
   "platforms": {
     "windows": {
       "setup_exe": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64-setup.exe",
       "portable_zip": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.zip",
       "msi": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.msi",
-      "sha256": "769e537df2b682b76e1665daa4c0cb01b29137808975c346a8f27337dc7b8e2b",
-      "size": 5793597
+      "sha256": "09fbf050fb44bac88855a62fa77339268d61a6d641238adc9048f86e24222998",
+      "size": 5860652
     },
     "macos": {
       "dmg": "https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-apple-silicon.dmg",
