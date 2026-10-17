@@ -1,28 +1,28 @@
 {
-  "version": "8.3.5",
-  "pub_date": "2026-10-11T14:30:00Z",
-  "notes": "Speakout v8.3.5 — 50ms Lightning Mode on Intel chips with AVX2 instruction burst decoding, DSP Voice Enhancement Engine (80Hz high-pass rumble filter + Adaptive AGC boost for whisper clarity on Windows & macOS), pure natural dictation by default, and streamlined Windows screening (macOS traffic lights removed, Alt+Spacebar hotkey defaults).",
-  "download_url": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64-setup.exe",
-  "asset_name": "Speakout-v8.3.5-windows-x64-setup.exe",
-  "asset_size": 5861978,
-  "sha256": "4cbdc4404d2da2d3aa60cbbd80cb0ac514f8cd12a833f05586cb38b9454ffff0",
+  "version": "8.3.4",
+  "pub_date": "2026-10-17T18:00:00Z",
+  "notes": "Speakout v8.3.4 Stable — Official verified release with pure native push-to-talk (Hold Fn / Hold Alt+Space), sub-second local Whisper engine, target application auto-refocus, zero telemetry, and cross-platform rock-solid stability on macOS, Windows, and Linux.",
+  "download_url": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64-setup.exe",
+  "asset_name": "Speakout-v8.3.4-windows-x64-setup.exe",
+  "asset_size": 5860652,
+  "sha256": "09fbf050fb44bac88855a62fa77339268d61a6d641238adc9048f86e24222998",
   "release_url": "https://github.com/hemanth-reddy18/speakout-downloads",
   "platforms": {
     "windows": {
-      "setup_exe": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64-setup.exe",
-      "portable_zip": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64.zip",
-      "msi": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.5/Speakout-v8.3.5-windows-x64.msi",
-      "sha256": "4cbdc4404d2da2d3aa60cbbd80cb0ac514f8cd12a833f05586cb38b9454ffff0",
-      "size": 5861978
+      "setup_exe": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64-setup.exe",
+      "portable_zip": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.zip",
+      "msi": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-windows-x64.msi",
+      "sha256": "09fbf050fb44bac88855a62fa77339268d61a6d641238adc9048f86e24222998",
+      "size": 5860652
     },
     "macos": {
-      "dmg": "https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-apple-silicon.dmg",
+      "dmg": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-apple-silicon.dmg",
       "sha256": "d6c270ccbb50638ee4911ad534890f274f9f839b3e41be8705ee1b0afc9044c3",
       "size": 5276548
     },
     "linux": {
-      "deb": "https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-linux-amd64.deb",
-      "appimage": "https://github.com/hemanth-reddy18/speakout-downloads/raw/refs/heads/main/Speakout-v8.3.4-linux-x86_64.AppImage"
+      "deb": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-linux-amd64.deb",
+      "appimage": "https://github.com/hemanth-reddy18/speakout-downloads/releases/download/v8.3.4/Speakout-v8.3.4-linux-x86_64.AppImage"
     }
   }
 }
